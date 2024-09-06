@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "projetojarvis"
+name = "ProjetoLuna"
 version = "0.1.0"
 description = ""
 authors = ["Matheus Galvao <matheusgalvaoangelo@gmail.com>"]
@@ -7,6 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+spacy = "^3.7.6"
 
 
 [build-system]
